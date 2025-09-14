@@ -3,7 +3,7 @@
 Installation:
 1. Open Terminal
 2. Clone the repo: git clone https://github.com/abigail-kim/cchw1
-3. Find in folder and open
+3. Search for "cchw1" in folder and open
 
 Overview: 
 This project is based on my interpretation of Kandinsky’s Composition VIII. When I first saw this painting, it felt very chaotic. But I soon learned that Kandinsky was trying to create movement and emotional responses through chaos and order, through his use of geometric shapes and colors.
